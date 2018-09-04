@@ -8,7 +8,7 @@ Istruzioni per avviare il programma e creare il db e le tabelle:
 5. Andare su localhost/phpmyadmin nella barra degli indirizzi
 6.  Creare un database e chiamarlo "laralist" 
 7. Andare nella sezione "Importa"
-8. Importare i file dentro la directory Public-List nel db creato
+8. Importare i file dentro la directory Tables nel db creato
 9. Salvare
 10. Il database è correttamente importato
 
